@@ -1,0 +1,45 @@
+h1{
+    color: rgb(223, 191, 48);
+ }
+ h2{
+    color: rgb(59, 104, 104);
+ }
+ body
+ {
+    background-color: rgb(7, 31, 31);
+ color: black;
+ word-spacing: 30px;
+ background-image: url(https://th.bing.com/th/id/R.48414e88ecd6030906b4e0a0c2af6399?rik=PCvIEAiTtHmnwA&pid=ImgRaw&r=0)
+    }
+ h1{
+    font-family: Arial, Helvetica, sans-serif
+ }
+ h1{
+    font-size: 32px;
+    width: auto;
+    border: 2px rgb(49, 70, 63) solid;
+padding: 30px;
+margin: 20px;
+ }
+ p{
+    font-size: 2.5em;
+    text-align: justify;
+ }
+ p{
+    float: left;
+    width: 150px;
+    border: 3px rgb(27, 75, 121) dashed;
+ }
+
+#vick1{
+    border: 3px rgb(35, 112, 112) solid;
+    padding: 5px;
+    margin: 20px;
+    background-color: black;
+
+}
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(17, 17, 88);
+
+}
